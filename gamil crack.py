@@ -6,8 +6,8 @@ def main():
     print#==========================================#
     print#    coded by khalilurahmanhussaini#
     print#==========================================#
-    print'      ++++++++++++++++++++++++++++++++
-    print'\n                   '
+    print#     ++++++++++++++++++++++++++++++++#
+    print#i\n                   #
     
 main()
 print'(1) start the brute force attacks'
