@@ -3,9 +3,9 @@
 import smtplib
 from os import system
 def main():
-    print'=========================================='
+    print#==========================================#
     print'     coded by khalilurahmanhussaini'
-    print'=========================================='
+    print#==========================================#
     print'      ++++++++++++++++++++++++++++++++
     print'\n                   '
     
