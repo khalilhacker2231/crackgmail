@@ -10,8 +10,8 @@ def main():
     print("i\n                  " )
     
 main()
-print'(1) start the brute force attacks'
-print'(2) exit'
+print"[1] start the brute force attacks"
+print"[2] exit"
 option = input('==>')
 if option == 1:
     file_path = raw_input('enter the path of password file')
