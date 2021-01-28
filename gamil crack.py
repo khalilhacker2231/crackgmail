@@ -30,7 +30,7 @@ def login():
     for password in pass_list:
         i = i + 1
         print( str(i) + '/' +str(len(pass_list))
-        SERVER.login(user_name,password)
+        .login(user_name,password)
         system('clear')
         
 
