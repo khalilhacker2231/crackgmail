@@ -3,11 +3,11 @@
 import smtplib
 from os import system
 def main():
-    print#==========================================#
-    print#    coded by khalilurahmanhussaini#
-    print#==========================================#
-    print#     ++++++++++++++++++++++++++++++++#
-    print#i\n                   #
+    print("==========================================")
+    print("    coded by khalilurahmanhussaini")
+    print("==========================================")
+    print("    ++++++++++++++++++++++++++++++++")
+    print("i\n                  " )
     
 main()
 print'(1) start the brute force attacks'
