@@ -31,7 +31,7 @@ def login():
         i = i + 1
         print( str(i) + '/' +str(len(pass_list))
         .login(user_name,password)
-        system('clear')
+        SYSTEM('clear')
         
 
 main()
